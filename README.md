@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/livewire?viewbox=auto" height="40" alt="livewire logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/livewire?viewbox=auto" height="40" alt="alpine.js logo"  />
+  <img src="https://cdn.simpleicons.org/alpine.js?viewbox=auto" height="40" alt="alpine.js logo"  />
 </div>
 
 ### Databases
