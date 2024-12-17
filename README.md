@@ -11,36 +11,24 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-
- <div align="left">
-  
  ### Languages 
  
  - 🇮🇹 Italian: Native
  - 🇺🇸 English: Basic
 
- </div>
 
-
+### Programming Languages / Frameworks
 
 <div align="left">
  
-### Programming Languages
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
 
-
-
-<div align="left">
-
-### Frameworks
- 
+  <img width="36" />
+  
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/livewire?viewbox=auto" height="40" alt="livewire logo"  />
@@ -51,9 +39,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 </div>
 
 
+### Databases & Devops
+
 <div align="left">
- 
-### Databases
  
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -62,27 +50,10 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/meilisearch/ffd95e" height="40" alt="meilisearch logo"  />
-</div>
 
 
-
-<div align="left">
- 
-### Main APIs
- 
-  <img src="https://cdn.simpleicons.org/paypal/00457C" height="40" alt="paypal logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/stripe/635bff" height="40" alt="stripe logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
-</div>
-
-
-
-<div align="left">
- 
-### Devops
- 
+  <img width="36" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
@@ -91,7 +62,8 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <!--
+
+<!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -99,6 +71,18 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  /> -->
-</div>
 
 </div>
+
+
+### Main APIs
+
+<div align="left"> 
+  <img src="https://cdn.simpleicons.org/paypal/00457C" height="40" alt="paypal logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/stripe/635bff" height="40" alt="stripe logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+ 
+</div>
+
