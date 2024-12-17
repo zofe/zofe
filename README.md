@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**Felix's GitHub profile** 
+## Felix's GitHub profile 👋
 
 
 - 🔭 I’m currently working using "BALL Stack" Environment: Bootstrap, Alpine.js, Laravel and Livewire
