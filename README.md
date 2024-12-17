@@ -1,6 +1,9 @@
 ## Felix's GitHub profile 👋
 
-I'm a PHP developer (Laravel/Livewire, Symfony)  with more than 20 years of experience 
+Hi! I’m a PHP developer (Laravel/Livewire, Symfony) with over 20 years of experience in designing, building, and maintaining content portals, e-commerce platforms, and high-traffic services. As a full-stack developer, I handle both frontend and backend tasks, working independently, as part of a team, or coordinating colleagues, often within CI/CD environments. I continuously stay up-to-date with industry best practices and the evolving developer community, creating solutions such as CMS, CRM, and automation tools for business processes.
+
+My most notable open-source project is rapyd-laravel, and I’m currently working on its natural evolution, rapyd-admin.
+ 
 
 - 🔭 I’m currently working using "BALL Stack" Environment: Bootstrap, Alpine.js, Laravel and Livewire
 - 🌱 I’m currently learning composer modular/plugin approach and laravel 11 
