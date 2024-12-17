@@ -1,10 +1,10 @@
 ## Felix's GitHub profile 👋
 
+I'm a PHP developer (Laravel/Livewire, Symfony)  with more than 20 years of experience 
 
 - 🔭 I’m currently working using "BALL Stack" Environment: Bootstrap, Alpine.js, Laravel and Livewire
 - 🌱 I’m currently learning composer modular/plugin approach and laravel 11 
 - 📫 How to reach me: felice.ostuni@gmail.com
-
 
 
 ### Languages 
@@ -28,9 +28,9 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/livewire?viewbox=auto" height="40" alt="livewire logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/alpine.js?viewbox=auto" height="40" alt="alpine.js logo"  />
 </div>
