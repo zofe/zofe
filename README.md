@@ -27,7 +27,7 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 
-  <img width="120" />
+  <img width="80" />
   
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
@@ -52,7 +52,7 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
   <img src="https://cdn.simpleicons.org/meilisearch/ffd95e" height="40" alt="meilisearch logo"  />
 
 
-  <img width="120" />
+  <img width="70" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
