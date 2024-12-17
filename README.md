@@ -3,12 +3,15 @@
 
 - 🔭 I’m currently working using "BALL Stack" Environment: Bootstrap, Alpine.js, Laravel and Livewire
 - 🌱 I’m currently learning composer modular/plugin approach and laravel 11 
-
 - 📫 How to reach me: felice.ostuni@gmail.com
 
-### 🌎 My Languages 🌎
+
+
+### Languages 
 - 🇮🇹 Italian: Native
 - 🇺🇸 English: Basic
+
+
 
 ### Programming Languages
 <div align="left">
@@ -40,6 +43,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
+
+
 
 ### Devops
 <div align="left">
