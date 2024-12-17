@@ -50,17 +50,13 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 </div>
 
 
-### APIs
+### Main APIs
 <div align="left">
   <img src="https://cdn.simpleicons.org/paypal/00457C" height="40" alt="paypal logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stripe/635bff" height="40" alt="stripe logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gocardless/00A1F0" height="40" alt="gocardless logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mailjet/F2B400" height="40" alt="mailjet logo"  />
 </div>
 
 
