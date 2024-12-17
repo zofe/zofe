@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
-**zofe/zofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Felix's GitHub profile** 
+
 
 - 🔭 I’m currently working using "BALL Stack" Environment: Bootstrap, Alpine.js, Laravel and Livewire
-- 🌱 I’m currently learning composer modular/plugin approach 
+- 🌱 I’m currently learning composer modular/plugin approach and laravel 11 
 
 - 📫 How to reach me: ...
 
