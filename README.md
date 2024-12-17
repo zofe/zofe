@@ -14,7 +14,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
  <div align="left">
+  
  ### Languages 
+ 
  - 🇮🇹 Italian: Native
  - 🇺🇸 English: Basic
 
@@ -23,7 +25,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 
 
 <div align="left">
- ### Programming Languages
+ 
+### Programming Languages
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -33,8 +37,10 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 
 
 
-### Frameworks
 <div align="left">
+
+### Frameworks
+ 
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/livewire?viewbox=auto" height="40" alt="livewire logo"  />
@@ -46,7 +52,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 
 
 <div align="left">
- ### Databases
+ 
+### Databases
+ 
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
@@ -59,7 +67,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 
 
 <div align="left">
- ### Main APIs
+ 
+### Main APIs
+ 
   <img src="https://cdn.simpleicons.org/paypal/00457C" height="40" alt="paypal logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stripe/635bff" height="40" alt="stripe logo"  />
@@ -70,7 +80,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 
 
 <div align="left">
- ### Devops
+ 
+### Devops
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
