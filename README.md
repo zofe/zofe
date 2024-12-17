@@ -10,14 +10,20 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 - 📫 How to reach me: felice.ostuni@gmail.com
 
 
-### Languages 
-- 🇮🇹 Italian: Native
-- 🇺🇸 English: Basic
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+
+ <div align="left">
+ ### Languages 
+ - 🇮🇹 Italian: Native
+ - 🇺🇸 English: Basic
+
+ </div>
 
 
 
-### Programming Languages
 <div align="left">
+ ### Programming Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -38,8 +44,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
   <img src="https://cdn.simpleicons.org/alpine.js?viewbox=auto" height="40" alt="alpine.js logo"  />
 </div>
 
-### Databases
+
 <div align="left">
+ ### Databases
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
@@ -50,8 +57,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 </div>
 
 
-### Main APIs
+
 <div align="left">
+ ### Main APIs
   <img src="https://cdn.simpleicons.org/paypal/00457C" height="40" alt="paypal logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stripe/635bff" height="40" alt="stripe logo"  />
@@ -60,8 +68,9 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
 </div>
 
 
-### Devops
+
 <div align="left">
+ ### Devops
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
@@ -78,4 +87,6 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  /> -->
+</div>
+
 </div>
