@@ -8,9 +8,10 @@ My experience also includes microservices and event-driven architectures, as wel
 My most notable open-source project is rapyd-laravel, and I’m currently working on its natural evolution, rapyd-admin.
  
 
-- 🔭 I’m currently developing [rapyd-admin](https://github.com/zofe/rapyd-admin), a boilerplate that provides a solid foundation for building robust Laravel/Livewire web platforms.
-- 🌱 I’m currently diving deep into the internals of Livewire and Laravel to strengthen my low-level understanding.
-- 📫 How to reach me: felice.ostuni@gmail.com
+🔭 I’m developing [rapyd-admin](https://github.com/zofe/rapyd-admin), a boilerplate providing a solid base for building robust Laravel/Livewire web platforms.
+🌱 I’m diving deeper into the internals of Laravel, Livewire, and Composer to strengthen my low-level understanding.  
+📫 How to reach me: felice.ostuni@gmail.com
+
 
 
 
