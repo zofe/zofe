@@ -6,7 +6,7 @@ My most notable open-source project is rapyd-laravel, and I’m currently workin
  
 
 - 🔭 I’m currently working using "BALL Stack" Environment: Bootstrap, Alpine.js, Laravel and Livewire
-- 🌱 I’m currently diving deep into the internals of Livewire, Laravel, and Composer to strengthen my low-level understanding and improve my skills.
+- 🌱 I’m currently diving deep into the internals of Livewire and Laravel to strengthen my low-level understanding and improve my skills.
 - 📫 How to reach me: felice.ostuni@gmail.com
 
 
