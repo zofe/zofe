@@ -1,14 +1,13 @@
 ## Felix's GitHub profile 👋
 
 Hi! I’m a PHP developer (Laravel/Livewire, Symfony) with over 20 years of experience in designing, building, and maintaining content portals, e-commerce platforms, and high-traffic services. As a full-stack developer, I manage both frontend and backend tasks, working independently, as part of a team, or coordinating colleagues—often within CI/CD environments.  
-I keep up-to-date with industry best practices and the evolving developer community, implementing solutions like CMS, CRM, and automation tools for business processes as well as integrating payment and billing systems (GoCardless, Stripe, PayPal).
-
+I keep up-to-date with industry best practices and the evolving developer community, implementing solutions like CMS, CRM, and automation tools for business processes as well as integrating payment and billing systems (GoCardless, Stripe, PayPal).  
 My experience also includes microservices and event-driven architectures, as well as DevOps practices (e.g., containerization with Docker), enabling scalable, resilient, and maintainable systems.
 
 My most notable open-source project is rapyd-laravel, and I’m currently working on its natural evolution, rapyd-admin.
  
 
-🔭 I’m developing [rapyd-admin](https://github.com/zofe/rapyd-admin), a boilerplate providing a solid base for building robust Laravel/Livewire web platforms.
+🔭 I’m developing [rapyd-admin](https://github.com/zofe/rapyd-admin), a boilerplate providing a solid base for building robust Laravel/Livewire web platforms.  
 🌱 I’m diving deeper into the internals of Laravel, Livewire, and Composer to strengthen my low-level understanding.  
 📫 How to reach me: felice.ostuni@gmail.com
 
